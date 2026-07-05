@@ -1,2 +1,2 @@
-javac ./App.java
+javac ./TwinUrls.java
 java TwinUrls
